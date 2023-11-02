@@ -1,0 +1,14 @@
+{
+  "fonts-roboto:Roboto-Black": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Black.ttf"}>,
+  "fonts-roboto:Roboto-BlackItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-BlackItalic.ttf"}>,
+  "fonts-roboto:Roboto-Bold": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Bold.ttf"}>,
+  "fonts-roboto:Roboto-BoldItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-BoldItalic.ttf"}>,
+  "fonts-roboto:Roboto-Italic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Italic.ttf"}>,
+  "fonts-roboto:Roboto-Light": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Light.ttf"}>,
+  "fonts-roboto:Roboto-LightItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-LightItalic.ttf"}>,
+  "fonts-roboto:Roboto-Medium": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Medium.ttf"}>,
+  "fonts-roboto:Roboto-MediumItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-MediumItalic.ttf"}>,
+  "fonts-roboto:Roboto-Regular": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Regular.ttf"}>,
+  "fonts-roboto:Roboto-Thin": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Thin.ttf"}>,
+  "fonts-roboto:Roboto-ThinItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-ThinItalic.ttf"}>
+}

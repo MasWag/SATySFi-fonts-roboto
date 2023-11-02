@@ -1,0 +1,56 @@
+---
+name: fonts-roboto
+author:
+  name: Masaki Waga
+  email: masakiwaga@gmail.com
+font-metadata:
+  name: Roboto
+  version: 2.138+1+satysfi0.0.10
+  license: Apache-2.0
+  url: https://fonts.google.com/specimen/Roboto
+site:
+  homepage: https://github.com/MasWag/SATySFi-fonts-roboto
+  bug-reports: https://github.com/MasWag/SATySFi-fonts-roboto/issues
+  dev-repo: git+https://github.com/MasWag/SATySFi-fonts-roboto.git
+font-archive:
+  name: roboto-unhinted.zip
+  expand-dir: roboto
+  url: https://github.com/googlefonts/roboto/releases/download/v2.138/roboto-unhinted.zip
+  extract: unzip -j -d roboto -o roboto-unhinted.zip *.ttf
+font-list:
+  - type: latin
+    name: Roboto-Black
+    file: Roboto-Black.ttf
+  - type: latin
+    name: Roboto-BlackItalic
+    file: Roboto-BlackItalic.ttf
+  - type: latin
+    name: Roboto-Bold
+    file: Roboto-Bold.ttf
+  - type: latin
+    name: Roboto-BoldItalic
+    file: Roboto-BoldItalic.ttf
+  - type: latin
+    name: Roboto-Italic
+    file: Roboto-Italic.ttf
+  - type: latin
+    name: Roboto-Light
+    file: Roboto-Light.ttf
+  - type: latin
+    name: Roboto-LightItalic
+    file: Roboto-LightItalic.ttf
+  - type: latin
+    name: Roboto-Medium
+    file: Roboto-Medium.ttf
+  - type: latin
+    name: Roboto-MediumItalic
+    file: Roboto-MediumItalic.ttf
+  - type: latin
+    name: Roboto-Regular
+    file: Roboto-Regular.ttf
+  - type: latin
+    name: Roboto-Thin
+    file: Roboto-Thin.ttf
+  - type: latin
+    name: Roboto-ThinItalic
+    file: Roboto-ThinItalic.ttf
