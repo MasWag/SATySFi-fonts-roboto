@@ -1,7 +1,7 @@
 (version 0.0.2)
 (library
  (name "fonts-roboto")
- (version "2.138+1+satysfi0.0.10")
+ (version "2.138+1")
  (sources
   ((hash "fonts.satysfi-hash" "fonts.satysfi-hash")
    (hash "mathfonts.satysfi-hash" "mathfonts.satysfi-hash")
@@ -17,11 +17,19 @@
    (font "Roboto-Regular.ttf" "roboto/Roboto-Regular.ttf")
    (font "Roboto-Thin.ttf" "roboto/Roboto-Thin.ttf")
    (font "Roboto-ThinItalic.ttf" "roboto/Roboto-ThinItalic.ttf")
+   (font "RobotoCondensed-Bold.ttf" "roboto/RobotoCondensed-Bold.ttf")
+   (font "RobotoCondensed-BoldItalic.ttf" "roboto/RobotoCondensed-BoldItalic.ttf")
+   (font "RobotoCondensed-Italic.ttf" "roboto/RobotoCondensed-Italic.ttf")
+   (font "RobotoCondensed-Light.ttf" "roboto/RobotoCondensed-Light.ttf")
+   (font "RobotoCondensed-LightItalic.ttf" "roboto/RobotoCondensed-LightItalic.ttf")
+   (font "RobotoCondensed-Medium.ttf" "roboto/RobotoCondensed-Medium.ttf")
+   (font "RobotoCondensed-MediumItalic.ttf" "roboto/RobotoCondensed-MediumItalic.ttf")
+   (font "RobotoCondensed-Regular.ttf" "roboto/RobotoCondensed-Regular.ttf")
   ))
  (opam "satysfi-fonts-roboto.opam"))
 (libraryDoc
   (name "fonts-roboto-doc")
-  (version "2.138+1+satysfi0.0.10")
+  (version "2.138+1")
   (build
     ((satysfi "doc-fonts-roboto.saty" "-o" "doc-fonts-roboto.pdf")))
   (sources

@@ -10,5 +10,13 @@
   "fonts-roboto:Roboto-MediumItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-MediumItalic.ttf"}>,
   "fonts-roboto:Roboto-Regular": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Regular.ttf"}>,
   "fonts-roboto:Roboto-Thin": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-Thin.ttf"}>,
-  "fonts-roboto:Roboto-ThinItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-ThinItalic.ttf"}>
+  "fonts-roboto:Roboto-ThinItalic": <Single: {"src": "dist/fonts/fonts-roboto/Roboto-ThinItalic.ttf"}>,
+  "fonts-roboto:RobotoCondensed-Bold": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-Bold.ttf"}>,
+  "fonts-roboto:RobotoCondensed-BoldItalic": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-BoldItalic.ttf"}>,
+  "fonts-roboto:RobotoCondensed-Italic": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-Italic.ttf"}>,
+  "fonts-roboto:RobotoCondensed-Light": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-Light.ttf"}>,
+  "fonts-roboto:RobotoCondensed-LightItalic": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-LightItalic.ttf"}>,
+  "fonts-roboto:RobotoCondensed-Medium": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-Medium.ttf"}>,
+  "fonts-roboto:RobotoCondensed-MediumItalic": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-MediumItalic.ttf"}>,
+  "fonts-roboto:RobotoCondensed-Regular": <Single: {"src": "dist/fonts/fonts-roboto/RobotoCondensed-Regular.ttf"}>
 }

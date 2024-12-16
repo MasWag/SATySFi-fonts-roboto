@@ -34,4 +34,12 @@ document (|
    +show-latin-font(`fonts-roboto:Roboto-Regular`);
    +show-latin-font(`fonts-roboto:Roboto-Thin`);
    +show-latin-font(`fonts-roboto:Roboto-ThinItalic`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-Bold`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-BoldItalic`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-Italic`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-Light`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-LightItalic`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-Medium`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-MediumItalic`);
+   +show-latin-font(`fonts-roboto:RobotoCondensed-Regular`);
 >

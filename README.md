@@ -1,7 +1,7 @@
 SATySFi-fonts-roboto
 ====================
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
+[![License: CC0 v1.0](https://img.shields.io/badge/License-CC0_v1.0-blue.svg)](./LICENSE)
 
 [SATySFi](https://github.com/gfngfn/SATySFi) Font Library with [Satyrographos](https://github.com/na4zagin3/satyrographos): [Roboto](https://fonts.google.com/specimen/Roboto)
 
@@ -10,7 +10,7 @@ To use this font, please install this package followed by `satyrographos install
 Requirements
 ------------
 
-- SATySFi 0.0.10
+- SATySFi >= 0.0.10 < 0.1
 - Satyrographos 0.0.2
 
 Installation
@@ -40,3 +40,11 @@ This package install the following fonts.
 | fonts-roboto:Roboto-Regular | Roboto-Regular.ttf | latin |
 | fonts-roboto:Roboto-Thin | Roboto-Thin.ttf | latin |
 | fonts-roboto:Roboto-ThinItalic | Roboto-ThinItalic.ttf | latin |
+| fonts-roboto:RobotoCondensed-Bold | RobotoCondensed-Bold.ttf | latin |
+| fonts-roboto:RobotoCondensed-BoldItalic | RobotoCondensed-BoldItalic.ttf | latin |
+| fonts-roboto:RobotoCondensed-Italic | RobotoCondensed-Italic.ttf | latin |
+| fonts-roboto:RobotoCondensed-Light | RobotoCondensed-Light.ttf | latin |
+| fonts-roboto:RobotoCondensed-LightItalic | RobotoCondensed-LightItalic.ttf | latin |
+| fonts-roboto:RobotoCondensed-Medium | RobotoCondensed-Medium.ttf | latin |
+| fonts-roboto:RobotoCondensed-MediumItalic | RobotoCondensed-MediumItalic.ttf | latin |
+| fonts-roboto:RobotoCondensed-Regular | RobotoCondensed-Regular.ttf | latin |
